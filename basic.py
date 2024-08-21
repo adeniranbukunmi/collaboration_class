@@ -1,8 +1,8 @@
-print("welcome to collaboration class")
+# print("welcome to collaboration class")
 
-def square(x):
-    return x **5
-print(square(4))
+# def square(x):
+#     return x **5
+# print(square(4))
 
 
 
@@ -26,13 +26,29 @@ class Cars():
     bonnet=1
     brake=1
     accelerator=1
-    def __init__(self, color, make, model,year, price, engin_type):
-        self.color=color
-        self.maker=make
-        self.model=model
-        self.year=year
-        self.price=price
-        self.engin_type=engin_type
+    def __init__(self, payment, details, routine, landing_page, ignition, park, reverse, neutral, drive, drift):
+        self.payment=payment
+        self.details=details
+        self.routine=routine
+        self.landing_page=landing_page
+        self.ignition=ignition
+        self.park=park
+        self.reverse=reverse
+        self.neutral=neutral
+        self.drive=drive
+        self.drift=drift
+
+def payment(self):
+    print("Welcome to the showroom")
+    price="The price of this car is #7,000,000"
+    print(price)
+    purchase=input("Please select yes to buy this car: ")
+    if purchase == ("yes", "Yes", "YES"):
+        print("Congratulations, your brand new car purchased successfully")
+    else:
+        print("Select Yes to purchase this car")
+    
+
 
 
 # ayodele just join 
