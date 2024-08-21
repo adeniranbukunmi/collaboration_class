@@ -4,6 +4,8 @@ def square(x):
     return x **5
 print(square(4))
 
+
+
 """
 working on object car
 types
@@ -29,6 +31,9 @@ class Cars():
         self.engin_type=engin_type
 
 
+# ayodele just join 
+
+
 # asgodwants just joined
 
 
@@ -37,5 +42,6 @@ class Cars():
 # toluwanimi just joined
 
 # pelumi just joind
+
 
 
