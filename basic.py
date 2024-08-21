@@ -14,7 +14,11 @@ method: drive(pelumi)
 method: drift(boluwatife)
 method: park(ayodele)
 method: reverse(toluwanimi)
-method: ignition(maimunat)
+method: payment(maimunat)
+method : landing page(Israel)
+method : ignition(david)
+method : routine check(Azeez)
+
 """
 class Cars():
     tyre=4
