@@ -39,15 +39,6 @@ class Cars():
         self.drive=drive
         self.drift=drift
 
-def payment(self):
-    print("Welcome to the showroom")
-    price="The price of this car is #7,000,000"
-    print(price)
-    purchase=input("Please select yes to buy this car: ")
-    if purchase == ("yes", "Yes", "YES"):
-        print("Congratulations, your brand new car purchased successfully")
-    else:
-        print("Select Yes to purchase this car")
     
 
 
