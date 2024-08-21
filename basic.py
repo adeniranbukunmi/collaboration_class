@@ -29,6 +29,9 @@ class Cars():
         self.engin_type=engin_type
 
 
+# asgodwants just joined
+
+
 # Maimunat just joined..😊✌️
 
 
@@ -36,4 +39,5 @@ class Cars():
 # toluwanimi just joined
 
 # pelumi just joind
+
 
