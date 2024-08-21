@@ -30,3 +30,15 @@ class Cars():
 
 
 # toluwanimi just joined
+    def reverse(self):
+        self.ignition = 'on'
+        self.gear = 'reverse'
+        self.brake = 'engaged'
+        self.clutch = 'engaged'
+
+        if self.ignition == 'on' and self.brake == 'engaged':
+            if self.clutch == 'engaged' and self.gear == 'reverse':
+                self.accelerator = 'engaged'
+                print ('car is in reverse') 
+    
+
