@@ -4,6 +4,8 @@ def square(x):
     return x **5
 print(square(4))
 
+
+
 """
 working on object car
 types
@@ -27,3 +29,5 @@ class Cars():
         self.year=year
         self.price=price
         self.engin_type=engin_type
+
+# ayodele just join 
