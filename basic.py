@@ -32,7 +32,7 @@ class Cars():
     bonnet=1
     brake=1
     accelerator=1
-<<<<<<< HEAD
+
     def __init__(self, color, maker, model,year, price, engin_type):
         self.color=color
         self.maker=maker
@@ -40,7 +40,6 @@ class Cars():
         self.year=year
         self.price=price
         self.engin_type=engin_type
-=======
     def __init__(self, payment, details, routine, landing_page, ignition, park, reverse, neutral, drive, drift):
         self.payment=payment
         self.details=details
@@ -55,7 +54,7 @@ class Cars():
 
     
 
->>>>>>> refs/remotes/origin/main
+
 
 
 
