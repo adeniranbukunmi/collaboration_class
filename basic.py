@@ -48,12 +48,12 @@ class Cars():
 # asgodwants just joined
 
 
-# Maimunat just joined..😊✌️
+# maimunat just joined..😊✌️
 
 # toluwanimi just joined
 
 # pelumi just joind
 
-# Israel just joined
+# israel just joined
 
 # dave just joined
