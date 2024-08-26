@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 import time
 
 print("welcome to collaboration class")
-=======
-# print("welcome to collaboration class")
->>>>>>> refs/remotes/origin/main
 
 # def square(x):
 #     return x **5
@@ -40,6 +36,10 @@ class Cars():
         self.year=year
         self.price=price
         self.engin_type=engin_type
+
+        def detail(self):
+            pass
+
     def __init__(self, payment, details, routine, landing_page, ignition, park, reverse, neutral, drive, drift):
         self.payment=payment
         self.details=details
