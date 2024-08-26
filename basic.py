@@ -26,7 +26,7 @@ method: ignition(maimunat)
 
 
 # Maimunat just joined..😊✌️
-# The prices are in dollars....
+
 from colorama import init,Fore,Back,Style
 init()
 def carlist():   
