@@ -1,3 +1,5 @@
+import time
+
 print("welcome to collaboration class")
 
 def square(x):
@@ -26,26 +28,15 @@ class Cars():
     bonnet=1
     brake=1
     accelerator=1
-    def __init__(self, color, make, model,year, price, engin_type):
+    def __init__(self, color, maker, model,year, price, engin_type):
         self.color=color
-        self.maker=make
+        self.maker=maker
         self.model=model
         self.year=year
         self.price=price
         self.engin_type=engin_type
 
 
-# ayodele just join 
-
-
-# asgodwants just joined
-
-
-# Maimunat just joined..😊✌️
-
-# toluwanimi just joined
-
-# pelumi just joind
 
 
 
