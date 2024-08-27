@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 # print("welcome to collaboration class")
 
 # def square(x):
 #     return x **5
 # print(square(4))
+=======
+>>>>>>> main
 
 """
 working on object car
@@ -31,7 +34,11 @@ method: ignition(maimunat)
 
 
 # Maimunat just joined..😊✌️
+<<<<<<< HEAD
 # The prices are in dollars....
+=======
+
+>>>>>>> main
 from colorama import init,Fore,Back,Style
 init()
 def carlist():   
@@ -67,7 +74,11 @@ def intro():
          global _status1
          _status1 = prices[_index]
         #  order.append(_status1)
+<<<<<<< HEAD
          print('It costs #',_status1)
+=======
+         print('It costs $',_status1)
+>>>>>>> main
          option = input(' 1.Full payment\n 2.Half payment\n Input a payment option: ')
          if option.strip() == '1':
               payment_plan()
@@ -101,7 +112,11 @@ def bank_payment():
      ccv = int(input('Enter your cvv: ') )           
      card_pin = int(input('Enter your four digit pin: ')) 
      amount =float(input('Enter payment amount: '))
+<<<<<<< HEAD
      print(Fore.GREEN + f'Payment successful. #{amount} deducted from your account.\n Thanks for your patronage..😊')
+=======
+     print(Fore.GREEN + f'Payment successful. ${amount} deducted from your account.\n Thanks for your patronage..😊')
+>>>>>>> main
      print(Style.RESET_ALL)
 
 def cash_payment():
@@ -114,4 +129,8 @@ carlist()
    
 
       
+<<<<<<< HEAD
+=======
+# Israel just joined
+>>>>>>> main
 
