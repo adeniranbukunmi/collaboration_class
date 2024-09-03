@@ -28,9 +28,4 @@ class Cars():
         self.price=price
         self.engin_type=engin_type
 
-
-
-
-
 # asgodwants just joined
-#we're testing
