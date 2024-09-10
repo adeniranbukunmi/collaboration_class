@@ -21,6 +21,7 @@ method: landing page(Israel)
 method: ignition(david)
 method: neutral (Emmanuel)
 
+
 """
 class Cars():
     tyre=4
@@ -60,3 +61,21 @@ class Cars():
 
 
 
+# Maimunat just joined..😊✌️
+
+# toluwanimi just joined
+
+# pelumi just joind
+
+# Israel just joined
+
+
+    def reverse(self):
+        self.gear = 'reverse'
+        self.brake = 'engaged'
+        self.clutch = 'engaged'
+
+        if self.brake == 'engaged':
+            if self.clutch == 'engaged' and self.gear == 'reverse':
+                self.accelerator = 'engaged'
+                print ('car is in reverse')
